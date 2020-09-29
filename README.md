@@ -1,6 +1,5 @@
 # Aio Myday
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Aio Myday is a all in one app.
 
