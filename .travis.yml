@@ -1,27 +1,24 @@
-# Travis CI Java documentation can be found in:
-# https://docs.travis-ci.com/user/languages/java/
+language: android
+dist: trusty
+android:
+  components:
+    # Uncomment the lines below if you want to
+    # use the latest revision of Android SDK Tools
+    # - tools
+    # - platform-tools
 
-# We will use Ubuntu 18.04 (bionic beaver). List of options:
-# https://docs.travis-ci.com/user/reference/overview/#linux
-dist: xenial
+    # The BuildTools version used by your project
+    - build-tools-26.0.2
 
-# This enables the 'defaults' to test java applications:
-language: java
+    # The SDK version used to compile your project
+    - android-26
 
-# We can specify a list of JDKs to be used for testing
-# A list of available JDKs in Trusty can be seed in:
-# https://docs.travis-ci.com/user/reference/xenial/#jvm-clojure-groovy-java-scala-support
-jdk:
- - openjdk8
- - openjdk11
+    # Additional components
+    - extra-google-google_play_services
+    - extra-google-m2repository
+    - extra-android-m2repository
 
-# Each job in Travis CI has several steps:
-# https://docs.travis-ci.com/user/job-lifecycle/
-# The 'language: java' directive sets up sane defaults to test common java applications
-# We use the defaults for installing dependencies, compiling and testing maven applications
-# In our case it will be 'mvn install' followed by 'mvn test'
-
-# This is to enable CodeCov's coverage
-# If a build is successful, the code is submitted for coverage analysis
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+    # Specify at least one system image,
+    # if you need to run emulator(s) during your tests
+    - sys-img-x86-android-26
+    - sys-img-armeabi-v7a-android-17
