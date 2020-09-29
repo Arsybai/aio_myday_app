@@ -1,5 +1,6 @@
 # Aio Myday
 
+https://raster.shields.io/badge/Build-Passing-green.svg
 
 Aio Myday is a all in one app.
 
