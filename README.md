@@ -26,11 +26,11 @@ You can also:
 
 ### Todos
 
- * [-] Write MORE Tests
- * [-] Add Night Mode
- * [-] Add Cloud Backup
- * [-] Add Story Mode (diary)
- * [-] Add Share with friend
+ [-] Write MORE Tests
+ [-] Add Night Mode
+ [-] Add Cloud Backup
+ [-] Add Story Mode (diary)
+ [-] Add Share with friend
 
 ## License
 
