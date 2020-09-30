@@ -1,5 +1,7 @@
 # Aio Myday
 
+[Download at PlayStore](https://play.google.com/store/apps/details?id=com.activitymanage.aio)
+
 ![build](https://raster.shields.io/badge/Build-Passing-green.svg)
 
 Aio Myday is a all in one app.
@@ -49,4 +51,3 @@ MIT
 
 
 ---
-[Download at PlayStore](https://play.google.com/store/apps/details?id=com.activitymanage.aio)
