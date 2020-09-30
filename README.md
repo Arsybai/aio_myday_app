@@ -1,6 +1,10 @@
 # Aio Myday
+note app, todolist, shoplist, diary in one app
 
-[Download at PlayStore](https://play.google.com/store/apps/details?id=com.activitymanage.aio)
+## Download
+<a href="https://play.google.com/store/apps/details?id=com.activitymanage.aio">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="80"/>
+</a>
 
 ![build](https://raster.shields.io/badge/Build-Passing-green.svg)
 
