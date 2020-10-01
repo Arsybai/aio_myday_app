@@ -25,7 +25,7 @@ Aio Myday is a all in one app.
   - Favorite items
 
 You can also:
-  - [x] Backup and restore sata
+  - [x] Backup and restore data
   - [x] Custom diary color
   - [x] Voice input (system lang)
   - [x] Add image diary
