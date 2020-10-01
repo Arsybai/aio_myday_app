@@ -1,12 +1,15 @@
 # Aio Myday
-note app, todolist, shoplist, diary in one app
+
+*Note app, Todolist, Shoplist, Diary in one app*
+
+[![Actions Status](https://github.com/arsybai/aio_myday_app/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/arsybai/aio_myday_app/actions)
+
+----
 
 ## Download
 <a href="https://play.google.com/store/apps/details?id=com.activitymanage.aio">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="80"/>
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60" width="160"/>
 </a>
-
-![build](https://raster.shields.io/badge/Build-Passing-green.svg)
 
 Aio Myday is a all in one app.
 
